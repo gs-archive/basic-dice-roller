@@ -3,5 +3,4 @@ UpSchool AD ödev-2
 
 !!  Optional eklentilerdaha sonra eklenecek
 
-|:-:|
-| ![Giriş Sayfası](docs/mockups/basic-dice-roller.png)  |
+![](docs/mockups/basic-dice-roller.png | width=100 height=200)
