@@ -1,0 +1,2 @@
+com/gulsah/basicdiceroller/test/BuildConfig.java
+ com.gulsah.basicdiceroller.test.BuildConfig
